@@ -7,31 +7,31 @@ FM-77とはD-SUB24ピンのコネクタで接続します。
 外部に20MHzのクリスタルを接続していますが、内蔵8MHzでも動作すると思います。
 
 **割当てキー**
--[Caps Lock]⇒[CAP]
--[ALT左右]⇒[GRAPH]
--[カナ]⇒[カナ]
--[F12]⇒[BREAK]
--[End]⇒[EL]
--[Home]⇒[HOME]
--[Insert]⇒[INS]
--[Delete]⇒[DEL]
--[Page Up]⇒[CLS]
--[Page Down]⇒[DUP]
+* [Caps Lock]⇒[CAP]
+* [ALT左右]⇒[GRAPH]
+* [カナ]⇒[カナ]
+* [F12]⇒[BREAK]
+* [End]⇒[EL]
+* [Home]⇒[HOME]
+* [Insert]⇒[INS]
+* [Delete]⇒[DEL]
+* [Page Up]⇒[CLS]
+* [Page Down]⇒[DUP]
 
 **未割当キー**
--[F11]
--[漢字]
--[変換]
--[無変換]
--[Print Screen]
--[Scroll Lock]
--[Pause]
--[Num Lock]
+* [F11]
+* [漢字]
+* [変換]
+* [無変換]
+* [Print Screen]
+* [Scroll Lock]
+* [Pause]
+* [Num Lock]
 
 **LEDランプ割当**
--Caps Lock：CAP LED
--Num Lock:カナ LED
--Scroll Lock:INS LED
+* Caps Lock：CAP LED
+* Num Lock:カナ LED
+* Scroll Lock:INS LED
 
 ## 参考にしたもの
 
